@@ -5,3 +5,12 @@ body {
     background-color: #191919;
     color: #F1F1F1;
 }
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #F1F1F1;
+}
