@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+    <meta charset="UTF-8">
+    <title>Shop</title>
+    <link rel="stylesheet" href="assets/css/style.css"
+</head>
+<body>
+<header>
+    <nav>
+        <ul>
+            <li>
+                <a href="#">Accueil</a>
+            </li>
+            <li>
+                <a href="#">Shop</a>
+            </li>
+            <li>
+                <a href="#">Blog</a>
+            </li>
+            <li>
+                <a href="#">Contact</a>
+            </li>
+        </ul>
+    </nav>
+
+</header>
+<main>
+    Shop
+</main>
+<footer>
+
+</footer>
+<script type="text/javascript" src="assets/js/script.js"></script>
+</body>
+</html>

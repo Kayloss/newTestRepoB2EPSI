@@ -2,7 +2,7 @@
 <html lang="fr-FR">
 <head>
     <meta charset="UTF-8">
-    <title>Test Repo GitHub Desktop</title>
+    <title>Accueil</title>
     <link rel="stylesheet" href="assets/css/style.css"
 </head>
 <body>
@@ -10,7 +10,7 @@
 
     </header>
     <main>
-
+        Accueil
     </main>
     <footer>
 
